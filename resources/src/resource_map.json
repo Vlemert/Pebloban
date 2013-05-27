@@ -1,0 +1,61 @@
+{
+    "media": [
+        {
+            "defName": "ARROW_LEFT",
+            "type": "png",
+            "file": "images/arrow_left.png"
+        },
+        {
+            "defName": "ARROW_DOWN",
+            "type": "png",
+            "file": "images/arrow_down.png"
+        },
+        {
+            "defName": "ARROW_RIGHT",
+            "type": "png",
+            "file": "images/arrow_right.png"
+        },
+        {
+            "defName": "ARROW_UP",
+            "type": "png",
+            "file": "images/arrow_up.png"
+        },
+        {
+            "defName": "PLAYER_LEFT",
+            "type": "png",
+            "file": "images/player_left.png"
+        },
+        {
+            "defName": "PLAYER_DOWN",
+            "type": "png",
+            "file": "images/player_down.png"
+        },
+        {
+            "defName": "PLAYER_RIGHT",
+            "type": "png",
+            "file": "images/player_right.png"
+        },
+        {
+            "defName": "PLAYER_UP",
+            "type": "png",
+            "file": "images/player_up.png"
+        },
+        {
+            "defName": "TARGET",
+            "type": "png",
+            "file": "images/target.png"
+        },
+        {
+            "defName": "WALL",
+            "type": "png",
+            "file": "images/wall.png"
+        },
+        {
+            "defName": "BOX",
+            "type": "png",
+            "file": "images/box.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
